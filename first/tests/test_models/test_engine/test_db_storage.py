@@ -1,4 +1,4 @@
-#!/usr/bin/python3 bbb
+#!/usr/bin/python3
 """
 Contains the TestDBStorageDocs and TestDBStorage classes
 """
