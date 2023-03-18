@@ -1,4 +1,4 @@
-#!/usr/bin/python3 bbb
+#!/usr/bin/python3
 """This module defines a class User"""
 from models.base_model import BaseModel, Base
 from sqlalchemy import Column, String
