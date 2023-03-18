@@ -1,4 +1,4 @@
-#!/usr/bin/python3 bbb
+#!/usr/bin/python3
 """ State Module for HBNB project """
 from models.base_model import BaseModel
 from sqlalchemy.ext.declarative import declarative_base
