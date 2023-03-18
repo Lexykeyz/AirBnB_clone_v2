@@ -32,7 +32,7 @@ package { 'nginx':
 -> file { '/data/web_static':
   ensure => 'directory'
 }
-
+6
 -> file { '/data/web_static/releases':
   ensure => 'directory'
 }
