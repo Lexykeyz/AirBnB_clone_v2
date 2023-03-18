@@ -54,4 +54,3 @@ web_static_{}/ /data/web_static/current'.format(timestamp))
 
         # return True on success
         return True
-6
