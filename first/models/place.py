@@ -60,3 +60,4 @@ class Place(BaseModel, Base):
             """Setter method for amenities"""
             if (type(obj) == Amenity):
                 self.amenity_ids.append(obj.id)
+iii
