@@ -1,4 +1,4 @@
-#!/usr/bin/python3 bbb
+#!/usr/bin/python3
 """ """
 from models.base_model import BaseModel
 import unittest
