@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3 bbb
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, scoped_session
 from os import getenv
