@@ -10,4 +10,3 @@ FLUSH PRIVILEGES;
 -- granting all privileges to the new user on hbnb_test_db
 GRANT ALL PRIVILEGES ON hbnb_test_db.* TO 'hbnb_test'@'localhost';
 FLUSH PRIVILEGES;
-7
