@@ -59,3 +59,4 @@ class BaseModel:
         by calling the method delete
         """
         models.storage.delete(self)
+uuu
