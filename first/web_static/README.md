@@ -1,1 +1,1 @@
-This directory implements webpage desig
+This directory implements webpage design.
